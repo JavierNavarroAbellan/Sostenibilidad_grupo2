@@ -44,7 +44,7 @@ La luz solar era un recurso fundamental, pues las casas se orientaban estratégi
 
  Yassin:
 
- Marina: 
+ Marina: Digitalización 
 
  Veronica: Compostaje domestico
 
