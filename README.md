@@ -38,3 +38,14 @@ La luz solar era un recurso fundamental, pues las casas se orientaban estratégi
  Los sacrificios, ofrendas y rituales se hacían con animales, frutas, vestidos o juguetes, lo que reflejaba un vínculo constante con la naturaleza y los recursos disponibles. Las prácticas religiosas actuaban como un sistema de cohesión social que garantizaba la armonía entre comunidad, divinidad y entorno.
 # Medicina
  Con Hipócrates, la medicina comenzó a basarse en la observación del cuerpo y en tratamientos con plantas, minerales o dietas, lo que implicaba un aprovechamiento de recursos naturales para cuidar la salud. El rol de las comadronas, basado en la experiencia y transmisión oral, aseguraba la sostenibilidad del conocimiento en la comunidad.
+
+
+ # Ideas de sostenibilidad 
+
+ Yassin:
+
+ Marina: 
+
+ Veronica:
+
+ Javi: Placas solares domésticas
