@@ -42,7 +42,7 @@ La luz solar era un recurso fundamental, pues las casas se orientaban estratégi
 
  # Ideas de sostenibilidad 
 
- Yassin: Reciclaje
+ Yassin: Reciclaje de residuos de una fabrica de muebles
 
  Marina: Digitalización 
 
