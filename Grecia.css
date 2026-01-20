@@ -184,3 +184,33 @@ footer {
     font-size: 24px;
     padding: 10px 20px;
   }
+
+
+  .enlace-parte2{
+  margin-top: 14px;
+  display: flex;
+  justify-content: center;
+}
+
+
+.enlace-parte2 a{
+  color: #fff;
+  font-family: 'Georgia', serif;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 1em;
+  padding: 0.5em 1.2em;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #1862b8 60%, #40a6ff 100%);
+  box-shadow: 0 4px 12px rgba(24,98,184,0.08);
+  border: 1px solid #bfcbe0;
+  transition: color 0.2s, background 0.2s, box-shadow 0.2s;
+  display: inline-block;
+}
+
+.enlace-parte2 a:hover{
+  color: #1862b8;
+  background: #fff;
+  border: 2px solid #1862b8;
+  box-shadow: 0 2px 16px #bfcbe044;
+}

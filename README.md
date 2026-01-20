@@ -1,14 +1,15 @@
 # Sostenibilidad_grupo2
 
 
-# Introducción
+# Enlace a la web
 
-La civilización de la Antigua Grecia (1200 a. C. - 146 a. C.) concebía al ser humano como parte integral de la naturaleza, entendiendo que su supervivencia dependía del equilibrio con el entorno que lo rodeaba. Los griegos valoraban los recursos naturales y observaban cuidadosamente cómo utilizarlos para sostener sus ciudades, agricultura y comercio, consciente de que un exceso podía poner en riesgo su prosperidad.
+ https://javiernavarroabellan.github.io/Sostenibilidad_grupo2/
 
-Filósofos y pensadores de la época reflexionaban sobre la relación entre los hombres y el mundo natural, promoviendo la cooperación y el respeto hacia los elementos que sustentaban la vida. Esta visión nos recuerda que la sostenibilidad no es un concepto moderno: incluso hace miles de años, la humanidad debía gestionar sus recursos, reconocer límites poblacionales y equilibrar sus necesidades con las de la naturaleza para no comprometer el futuro.
+# Ideas de sostenibilidad 
 
-## La civilización griega 
+ Yassin: Reciclaje de residuos de una fabrica de muebles
 
+<<<<<<< HEAD
 # Supervivencia 
  La supervivencia de la sociedad griega estuvo íntimamente relacionada con la capacidad de adaptar su modo de vida al medio mediterráneo. La agricultura era el eje central de esta supervivencia: cereales, viñedos y olivares constituían la base de la alimentación y al mismo tiempo aseguraban excedentes para el comercio. Los griegos implementaron la rotación bienal, una técnica que permitía alternar barbecho y cultivo para no desgastar los suelos, lo cual garantizaba la continuidad de la producción agrícola. Su dieta se caracterizaba por ser sencilla pero nutritiva, centrada en vegetales, frutas, pan, queso, vino y aceite de oliva, mientras que el consumo de carne era limitado, lo que reducía la presión sobre los recursos ganaderos. La polis, como centro político, económico y religioso, proporcionaba el marco de cooperación necesario para mantener la vida comunitaria. 
 
@@ -44,6 +45,8 @@ La luz solar era un recurso fundamental, pues las casas se orientaban estratégi
 
  Yassin: Reciclaje
 
+=======
+>>>>>>> b5ca673d5de8bf636079beb96ff6e840e210d72d
  Marina: Digitalización
 
  
