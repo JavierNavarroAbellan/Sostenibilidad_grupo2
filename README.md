@@ -44,8 +44,9 @@ La luz solar era un recurso fundamental, pues las casas se orientaban estratégi
 
  Yassin: Reciclaje
 
- Marina: Digitalización 
+ Marina: Digitalización
 
+ 
  Veronica: Compostaje domestico
 
  Javi: Placas solares domésticas
