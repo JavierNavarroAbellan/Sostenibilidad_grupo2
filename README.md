@@ -9,7 +9,7 @@
 
  Yassin: Reciclaje de residuos de una fabrica de muebles
 
- Marina: Digitalización 
+ Marina: Digitalización
 
  Veronica: Compostaje domestico
 
